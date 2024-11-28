@@ -1,3 +1,3 @@
 # voting_sample
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Manimodala7/voting_sample)
+It is a basic voting machine with by default  candidates created using Type Script.
